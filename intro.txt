@@ -1,0 +1,9 @@
+R is used for statistical data analysis.
+developed for statisticians for statistics.
+if you want to do any statistical analysis R is your go to
+language.
+
+TYPE R on cmd to initiate R programming
+
+To run already written program in R on cmd
+type Rscript filename.r
